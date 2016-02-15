@@ -28,7 +28,7 @@
     </nav>
 
     <div>
-      <?php echo "Olá amigos do code.education";  ?>
+      <?php echo "Olá Galera !!! do code.education";  ?>
     </div>
 
     <footer>
